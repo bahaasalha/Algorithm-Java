@@ -14,24 +14,6 @@ Also known as [algs4](https://algs4.cs.princeton.edu/) and Princeton [COS 226](h
 
 I've compacted all the related slides into a pdf file, and added outlines (bookmarks, navigation trees, table of contents) for referencing. [Available at iCloud Drive](https://www.icloud.com/iclouddrive/02dFD22xzdrap3i8iB5FjSPmw#Algorithms-algs4-slides) (1584 pages, 160 MB).
 
-## Programming Assignments
-
-The algs4 Java algorithms and clients is a must to run any application. You may follow the [instructions](https://algs4.cs.princeton.edu/code/) to access and import the text book library. 
-
-<table>
-  <tr>
-    <td rowspan="2"><a href="#programming-assignments">Assignment</a></td>
-    <td>Checklist</td>
-    <td>Code Implementation</td>
-    <td>Test Output</td>
-    <td rowspan="2">Fields of Study</td>
-  </tr>
-  <tr align="center">
-    <td>:white_check_mark:</td>
-    <td>:computer:</td>
-    <td>:100:</td>
-  </tr>
-</table>
 
 - <a href="http://coursera.cs.princeton.edu/algs4/assignments/percolation.html" id="percolation" title="Assignment" rel="nofollow">Percolation</a> [:white_check_mark:](http://coursera.cs.princeton.edu/algs4/checklists/percolation.html "Checklist") [:computer:](./src/main/java/assignment1 "Code Implementation") [:100:](./test-output/Assignment1-Percolation-Union_Find.txt "Test Output") - Union-Find
 - <a href="http://coursera.cs.princeton.edu/algs4/assignments/queues.html" id="queues" title="Assignment" rel="nofollow">Deque and RandomizedQueue</a> [:white_check_mark:](http://coursera.cs.princeton.edu/algs4/checklists/queues.html "Checklist") [:computer:](./src/main/java/assignment2 "Code Implementation") [:100:](./test-output/Assignment2-Deque_RandomizedQueue-Stack_Queue.txt "Test Output") - Stack and Queue
@@ -61,6 +43,3 @@ The algs4 Java algorithms and clients is a must to run any application. You may 
 
 The [algs4 booksite](http://algs4.cs.princeton.edu/) is open to everyone and contains a wealth of supplementary information, including synopses of the textbook and Java code that you will be using throughout the course.
 
-## Copyright
-
-All rights reserved. All video recordings, lecture slides, assessments and other materials made available in connection with this course are subject to copyright protection and may be used only for private study by persons who are enrolled in this course. Any other use of these materials must be with the express, written permission of Robert Sedgewick and Kevin Wayne.
