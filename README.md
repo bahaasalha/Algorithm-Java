@@ -26,16 +26,6 @@ I've compacted all the related slides into a pdf file, and added outlines (bookm
 - <a href="http://coursera.cs.princeton.edu/algs4/assignments/boggle.html" id="boggle" title="Assignment" rel="nofollow">Boggle</a> [:white_check_mark:](http://coursera.cs.princeton.edu/algs4/checklists/boggle.html "Checklist") [:computer:](./src/main/java/assignment9 "Code Implementation") [:100:](./test-output/Assignment9-Boggle-Trie.txt "Test Output") - Trie
 - <a href="http://coursera.cs.princeton.edu/algs4/assignments/burrows.html" id="burrows" title="Assignment" rel="nofollow">Burrows-Wheeler</a> [:white_check_mark:](http://coursera.cs.princeton.edu/algs4/checklists/burrows.html "Checklist") [:computer:](./src/main/java/assignment10 "Code Implementation") [:100:](./test-output/Assignment10-Burrows_Wheeler-Data_Compression.txt "Test Output") - Data Compression
 
-<a href="#percolation" title="Percolation - Union-Find" rel="nofollow"><img src="./src/test/resources/assignment1/logo.png" width="600"></a>
-<a href="#queues" title="Deque and RandomizedQueue - Stack and Queue" rel="nofollow"><img src="./src/test/resources/assignment2/logo.png" width="600"></a>
-<a href="#collinear" title="Collinear Points - Sorting" rel="nofollow"><img src="http://coursera.cs.princeton.edu/algs4/testing/collinear/logo.png" width="600"></a>
-<a href="#8puzzle" title="8 Puzzle - PriorityQueue" rel="nofollow"><img src="./src/test/resources/assignment4/logo.png" width="600"></a>
-<a href="#kdtree" title="KdTree - SearchTree" rel="nofollow"><img src="./src/test/resources/assignment5/logo.png" width="600"></a>
-<a href="#wordnet" title="WordNet - DirectedGraph" rel="nofollow"><img src="./src/test/resources/assignment6/logo.png" width="600"></a>
-<a href="#seam" title="Seam Carving - Shortest Path" rel="nofollow"><img src="./src/test/resources/assignment7/logo.png" width="600"></a>
-<a href="#baseball" title="Baseball Elimination - MaxFlow" rel="nofollow"><img src="http://coursera.cs.princeton.edu/algs4/testing/baseball/logo.png" width="600"></a>
-<a href="#boggle" title="Boggle - Trie" rel="nofollow"><img src="http://coursera.cs.princeton.edu/algs4/testing/boggle/logo.png" width="600"></a>
-<a href="#burrows" title="Burrows-Wheeler - Data Compression" rel="nofollow"><img src="http://coursera.cs.princeton.edu/algs4/testing/burrows/logo.png" width="600"></a>
 
 ## Reference
 
